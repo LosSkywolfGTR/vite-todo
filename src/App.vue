@@ -2,7 +2,7 @@
   <div class="min-h-screen flex flex-col justify-center items-center">
     <header class="flex flex-col w-full container">
       <h1 class="text-6xl font-light text-purple-800 text-center">
-         My To Do App Using Vite!!!!!
+         My To Do App Using Vite
       </h1>
       <input
         class="text-3xl py-2 px-4 rounded-xl w-full mt-8 text-yellow-500"
