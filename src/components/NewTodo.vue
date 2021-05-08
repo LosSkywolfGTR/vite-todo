@@ -1,6 +1,6 @@
 <template>
   <input
-    class="text-3xl py-2 px-4 rounded-xl w-full mt-8 text-gray-800"
+    class="text-3xl py-2 px-4 rounded-xl w-full mt-8 text-yellow-500"
     type="text"
     :placeholder="placeholder"
     v-model="newTodo"
@@ -14,7 +14,7 @@ import { newTodo, addTodo } from '../helpers/useTodos'
 defineProps({
   placeholder: {
     type: String,
-    default: 'New Todo',
+    default: 'New Item',
   },
 })
 </script>
